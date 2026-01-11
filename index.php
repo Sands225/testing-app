@@ -1,5 +1,6 @@
 <?php
 
-echo "Kelompok MJS Eka";
+echo "Kelompok MJS";
+echo "Eka Darma";
 
 ?>
