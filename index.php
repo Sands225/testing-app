@@ -3,7 +3,7 @@ $judul = "Kelompok Manajemen Jaringan Server";
 
 $anggota = [
     "Eka Darma",
-    "Sandika Wijaya",
+    "Sandi Wijaya",
     "Eri Widura",
     "Wiswan"
 ];
