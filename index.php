@@ -1,6 +1,6 @@
 <?php
 
 echo "Kelompok MJS";
-echo "Eka Darma";
+echo "Eka Darma Putra";
 
 ?>
