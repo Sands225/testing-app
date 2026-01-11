@@ -24,11 +24,11 @@ jobs:
             set -e
 
             cd /var/www/web1
-            
+
             git fetch origin main
             git reset --hard origin/main
 
             chmod -R 755 .
 
-            systemctl reload php8.2-fpm
-            systemctl reload nginx
+            sudo systemctl reload php8.2-fpm
+            sudo systemctl reload nginx
