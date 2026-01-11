@@ -23,7 +23,7 @@ jobs:
           script: |
             set -e
 
-            cd /var/www/testing-app
+            cd /var/www/web1
 
             git pull origin main
 
