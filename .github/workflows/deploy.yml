@@ -27,7 +27,6 @@ jobs:
 
             git pull origin main
 
-            chown -R www-data:www-data .
             chmod -R 755 .
 
             systemctl reload php8.2-fpm
