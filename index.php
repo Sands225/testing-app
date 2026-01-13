@@ -83,7 +83,7 @@ $anggota = [
 
 <div class="card">
     <h1><?php echo $judul; ?></h1>
-    <div class="subtitle">Web Introduction</div>
+    <div class="subtitle">Web Introduction Hehe</div>
 
     <?php foreach($anggota as $nama): ?>
         <div class="member">
