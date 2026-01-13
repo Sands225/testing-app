@@ -92,7 +92,7 @@ $anggota = [
     <?php endforeach; ?>
 
     <footer>
-        &copy; <?php echo date("Y"); ?> Kelompok Server Network
+        &copy; <?php echo date("Y"); ?> Kelompok Server MJS
     </footer>
 </div>
 
