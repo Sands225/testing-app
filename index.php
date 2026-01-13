@@ -1,5 +1,5 @@
 <?php
-$judul = "Kelompok Manajemen Jaringan Server";
+$judul = "Kelompok MJS F";
 
 $anggota = [
     "Eka Darma",
