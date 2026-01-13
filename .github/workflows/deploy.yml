@@ -23,7 +23,7 @@ jobs:
           script: |
             set -e
 
-            cd /var/www/web1
+            cd /var/www/web4
 
             git fetch origin main
             git reset --hard origin/main
